@@ -1,4 +1,0 @@
-train: ../train
-val: ../val
-nc: 4
-names: ['name', 'dob', 'gender', 'adar']
